@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
+}
+.header {
+  margin: 4rem;
+  display: flex;
+  justify-content: space-between;
+  height: 15vh;
+}
+.logo {
+  width: 7rem;
+  height: 7rem;
+}
+.link {
+  text-decoration: none;
+  margin: 0 1.1rem;
+  font-size: 1.2rem;
+  color: #8C929B;
+  line-height: 15vh;
+  font-weight: bold;
+}
+.portfolio-button {
+  background-color: #2C8CFF;
+  color: #FFF;
+  font-size: 1.2rem;
+  padding: 1rem;
+  border-radius: 2rem;
+}
